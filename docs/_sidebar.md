@@ -1,19 +1,30 @@
-* 入门
-    * [首页](/)
-    * [多页文档](zh-cn/more-pages.md)
-    * [定制导航栏](zh-cn/custom-navbar.md)
-    * [封面](zh-cn/cover.md)
-* 配置
-    * [指南](zh/tea.md "The greatest guide in the world")
-    * [配置项](zh-cn/configuration.md)
-    * [主题](zh-cn/themes.md)
-    * [使用插件](zh-cn/plugins.md)
-    * [Markdown 配置](zh-cn/markdown.md)
-    * [代码高亮](zh-cn/language-highlight.md)
+* [首页](/ "迅迅的时间笔记")
+* [Tea Note](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+* 个人管理软件资源
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Window10安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Office安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Office安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [原版Chrome离线安装包](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+* Windows软件资源
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Window10安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Office安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Office安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [原版Chrome离线安装包](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+* Mac软件资源
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Window10安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Office安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Office安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [原版Chrome离线安装包](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+* 时间管理工具推荐
+  * [26个最好用的时间管理工具（No.1）](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [26个最好用的时间管理工具（No.2-4）](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.2-4）")
+  * [26个最好用的时间管理工具（No.5-7）](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.5-7）")
 * 归档文章
   * [滴答清单 vs todoist，哪一款适合你（一）](zh/滴答清单vstodoist哪一款适合你1.md "滴答清单 vs todoist，哪一款适合你（一）")
   * [滴答清单 vs todoist，哪一款适合你（二）](zh/滴答清单vstodoist哪一款适合你2.md "滴答清单 vs todoist，哪一款适合你（二）")
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+* 关于
+  * [关于《迅迅的时间笔记》](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [关于吕舜](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
