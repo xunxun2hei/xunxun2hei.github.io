@@ -1,15 +1,5 @@
-* 个人管理软件
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
-* Windows软件
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
-* Mac软件
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
+* 软件资源
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
+  * [Window11安装和激活工具](zh/滴答清单vstodoist哪一款适合你2.md "26个最好用的时间管理工具（No.1）")
