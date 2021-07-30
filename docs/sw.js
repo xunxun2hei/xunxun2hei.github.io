@@ -9,8 +9,6 @@
 const RUNTIME = 'docsify'
 const HOSTNAME_WHITELIST = [
     self.location.hostname,
-    'fonts.gstatic.com',
-    'fonts.googleapis.com',
     'cdn.jsdelivr.net',
     'xunxun2hei.oss-cn-shanghai.aliyuncs.com'
 ]
