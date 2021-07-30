@@ -1,7 +1,11 @@
 # 滴答清单 vs todoist，哪一款适合你（一）
+
 ![](https://pic2.zhimg.com/v2-f07a162f55634df6013dc042eba6087a_1440w.jpg?source=172ae18b)
+
 我已经花了四年的时间来寻找好用的任务管理app了（有这么多功夫，早就可以做更多事情了...）。
+
 虽然在寻找app这件事上我有点本末倒置，但还是有不少好处的，比如现在我可以好好向大家介绍这些app了。
+
 这次给大家带来的，是滴答笔记和todoist的对比。
 
 ## 背景介绍
@@ -94,4 +98,5 @@ todoist基本上已经是苹果平台上任务管理app中最好的了，功能�
 
 ---
 更多好玩的任务与知识管理软件推荐和工具使用经验，请关注微信公众号“迅迅的时间笔记”
-![](https://pic2.zhimg.com/80/v2-ce71ecbf2c43bc7e84f0836f8a9d0859_1440w.jpg)
+
+![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/todo2/qrcode_for_gh_d14fa0fe79e4_430.jpg)

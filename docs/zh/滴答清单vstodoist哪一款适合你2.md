@@ -82,4 +82,4 @@
 ---
 更多好玩的任务与知识管理软件推荐和工具使用经验，请关注微信公众号“迅迅的时间笔记”
 
-![](https://pic2.zhimg.com/80/v2-ce71ecbf2c43bc7e84f0836f8a9d0859_1440w.jpg)
+![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/todo2/qrcode_for_gh_d14fa0fe79e4_430.jpg)
