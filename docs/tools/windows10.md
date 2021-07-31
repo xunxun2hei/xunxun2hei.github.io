@@ -1,27 +1,58 @@
-# Windows 11 安装和激活
-微软公司在2021.6.29日推送了windows11预览版，也是官方正式推送的版本，很多用户都在开始尝试使用windows11预览版本，需要的朋友不要错过哦！
+# Windows 10 安装和激活
 
-![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/windows11/window11.jpeg)
+> 本篇文章提供了Windows10的下载地址和激活方案。
 
-## Windows11预览版下载
+![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/windows11/windows10.jpeg)
 
-### 官网下载
+## windows10 下载
 
-https://www.microsoft.com/en-us/windows/windows-11
+下列windows10镜像均为business editions VL版，包含以下版本（根据需要选择安装）：专业版、企业版、教育版、专业工作站版、专业教育版，都可以通过我们这里介绍的方案激活
 
-### 迅雷
+### windows_10_21h1_x64：
 
-[MSDN itellyou ed2k](ed2k://|file|22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTMULTICOMBINED_UUP_X64FRE_ZH-CN.ISO|5727295488|F27604BE2EF9E4D3A20886157A8297D3|/)
-
-### 磁力链接
+迅雷下载：
 
 ```
-magnet:?xt=urn:btih:DD5BCB82E3637B62C11333DEC9BD32A25D6FE7FD&dn=22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTMULTICOMBINED_UUP_X64FRE_ZH-CN.ISO&xl=5727295488
+ed2k://|file|cn_windows_10_business_editions_version_21h1_x64_dvd_57455ea1.iso|5693655040|68EB323345DC095D367A19CB3A22342C|/
 ```
 
-### 百度盘
+### windows_10_20h2_x64：
 
-- [百度盘（提取码eeeo）](https://pan.baidu.com/s/1TzRrb_7frFy5yXlJ_sndfg)
+迅雷下载：
+
+```
+ed2k://|file|cn_windows_10_business_editions_version_20h2_updated_feb_2021_x64_dvd_be28e70d.iso|6060609536|6EE4C60193418417843D7A2F4518C9D7|/
+```
+
+### windows_10_2004_x64：
+
+迅雷下载：
+
+```
+ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso|5313628160|7CF0E7C3324B4209663B8B971A5ACEF2|/
+```
+
+### windows_10_1909_x64：
+
+迅雷下载：
+
+```
+ed2k://|file|cn_windows_10_business_editions_version_1909_updated_jan_2020_x64_dvd_b3e1f3a6.iso|5311711232|3527D2A9845FF4105F485CC364655B66|/
+windows_10_1903_x64：
+```
+
+迅雷下载：
+
+```
+ed2k://|file|cn_windows_10_business_editions_version_1903_updated_sept_2019_x64_dvd_2f5281e1.iso|5231140864|B1D5C4C401036B0B1EBA64476A95F338|/
+windows_10_1809_x64：
+```
+
+迅雷下载：
+
+```
+ed2k://|file|cn_windows_10_business_editions_version_1809_updated_sept_2019_x64_dvd_f873d037.iso|5444462592|BF3C1964141BCF6ACD40EC6AAF2A0940|/
+```
 
 > 您可以关注公众号《迅迅的时间笔记》获得更多下载链接资源
 
@@ -53,6 +84,7 @@ magnet:?xt=urn:btih:DD5BCB82E3637B62C11333DEC9BD32A25D6FE7FD&dn=22000.51.210617-
 
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/system/qrcode_for_gh_d14fa0fe79e4_258.jpg)
 
+
 ## 激活方案二：脚本激活(需要联网)
 
 > 脚本语言方便阅读，因为每个人都可以看到脚本代码，所以作者没有办法向其中写入木马病毒。目前脚本激活基本上是最安全可靠的激活方式。
@@ -64,13 +96,13 @@ magnet:?xt=urn:btih:DD5BCB82E3637B62C11333DEC9BD32A25D6FE7FD&dn=22000.51.210617-
 - [下载激活脚本](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/windows11/KMS-Cangshui.net.bat)
 - 双击脚本运行
 - Windows自带的安全机制会弹出窗口询问你是否要运行！点击允许，因为脚本是申请了管理员权限的。
-    
+
 ### 注意事项
 - 0x80070005错误一般是你没用管理员权限运行CMD，请检查是否被拦截运行
 - 清除Windows的kms之后需要重启电脑才能重新激活！
 - 脚本中KMS主服务器是屏蔽所有海外IP的，如果你是海外用户会提示连不上主服务器并自动切换至备用服务器
 - 大多数情况你根本不用到处问来问去，直接根据出错代码自己百度搜索出错原因就行了！
-
+  
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/windows11/694086468904065.gif)
 
 > 激活过程中遇到任何问题，请关注公众号《迅迅的时间笔记》咨询
@@ -83,8 +115,8 @@ HEU KMS Activator激活工具支持winxp-win11几乎所有版本，而且使用�
 
 ### 激活方式
 - 下载安装Windows11
-    - 仅支持官方版本的Windows激活，不支持某吧某坛大神精简系统，某木风某白菜某之家某花园某家园魔改ghost系统
-    - 不支持OEM系统激活
+  - 仅支持官方版本的Windows激活，不支持某吧某坛大神精简系统，某木风某白菜某之家某花园某家园魔改ghost系统
+  - 不支持OEM系统激活
 - [下载激活工具](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/windows11/HEU%2BKMS%2BActivator(v24.1.0).exe)
 - 双击运行
 - Windows自带的安全机制会弹出窗口询问你是否要运行！点击允许，因为脚本是申请了管理员权限的。
@@ -96,6 +128,3 @@ HEU KMS Activator激活工具支持winxp-win11几乎所有版本，而且使用�
 > HEU KMS Activator会一直维护更新，您可以关注公众号《迅迅的时间笔记》，获得最新的下载链接
 
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/system/qrcode_for_gh_d14fa0fe79e4_258.jpg)
-
-<div style="display: none">https://kms.cangshui.net/</div>
-<div style="display: none">https://www.jb51.net/softs/668522.html</div>

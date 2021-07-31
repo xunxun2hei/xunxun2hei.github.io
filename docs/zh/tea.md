@@ -2,6 +2,8 @@
 
 > 通过强大的链接功能来组织您的思维和学习，搭建好用的知识管理库。
 
+[![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/teanoteapp/download-from-app-store.svg)](https://apps.apple.com/cn/app/tea-note/id1535197651?mt=12)
+
 Tea Note是一款流畅的知识管理应用，你可以用它写作笔记和文章，使用Tea Note记笔记上手非常容易。
 
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/teanote/807cbc17-e021-5267-ac31-3bae0fe9208a.image.png)
