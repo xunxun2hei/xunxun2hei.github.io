@@ -23,7 +23,7 @@ Tea Note目前在App Store上提供下载。
 
 ## 公众号
 
-你也可以关注《迅迅的时间笔记》公众号，第一时间获得我们的文章推送。
+你也可以关注《迅迅的时间笔记》微信公众号，第一时间获得我们的文章推送。
 
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/todo2/qrcode_for_gh_d14fa0fe79e4_430.jpg)
 

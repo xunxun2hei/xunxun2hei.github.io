@@ -21,8 +21,15 @@ Tea Note目前在App Store上提供下载。
 
 [![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/teanoteapp/download-from-app-store.svg)](https://apps.apple.com/cn/app/tea-note/id1535197651?mt=12)
 
-## 公众号
+## 微信公众号
 
-你也可以关注《迅迅的时间笔记》公众号，第一时间获得我们的文章推送。
+你也可以关注《迅迅的时间笔记》微信公众号，第一时间获得我们的文章推送。
 
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/documents/todo2/qrcode_for_gh_d14fa0fe79e4_430.jpg)
+
+## 其他渠道
+你也可以从其他主要自媒体渠道找到我们
+
+[知乎《迅迅的时间笔记》](https://www.zhihu.com/people/xun-xun-de-shi-jian-bi-ji)
+
+![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/system/54__5669caff86cb49de0a1896fde5393297_6aac0b0b6fb1be86b7fd69634a305694.png)
