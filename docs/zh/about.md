@@ -4,13 +4,13 @@
 
 ## 微信公众号
 
-你也可以关注《迅迅的时间笔记》微信公众号，第一时间获得我们的文章推送。
+你也可以关注《迅迅的时间笔记》微信公众号，第一时间获得我的文章推送。
 
 ![](https://xunxun2hei.oss-cn-shanghai.aliyuncs.com/system/qrcode_for_gh_d14fa0fe79e4_258.jpg)
 
 ## 其他渠道
 
-你也可以从其他主要自媒体渠道找到我们
+你也可以从其他主要自媒体渠道找到我
 
 [知乎《迅迅的时间笔记》](https://www.zhihu.com/people/xun-xun-de-shi-jian-bi-ji)
 
